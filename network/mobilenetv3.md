@@ -4,4 +4,5 @@
 ![dd](https://img-blog.csdnimg.cn/20191209213051844.png)
 
 ![dd](https://github.com/Rokuki/ai-note/blob/main/network/img/h_swish_latency.jpg)
+
 h-swish相比ReLU，增加了延时，显著提高了精度
