@@ -5,4 +5,5 @@
 
 ![dd](https://github.com/Rokuki/ai-note/blob/main/network/img/h_swish_latency.jpg)
 
-h-swish相比ReLU，增加了延时，显著提高了精度
+h-swish速度比ReLU慢，比swish快；精度较ReLU有显著提高
+
