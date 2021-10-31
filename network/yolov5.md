@@ -1,6 +1,7 @@
 ## 为什么使用yolov5
 yolov5有很多trick，比如
 数据增强方面：
+
 - 马赛克
 - 自适应anchors计算
 - 图像缩放
@@ -13,17 +14,17 @@ yolov5有很多trick，比如
 ## yolov5结构特点
 - 基础模块CBL: Conv，BN，Leaky ReLU
 - 残差模块ResUnit
-- ![dd](https://github.com/Rokuki/ai-note/raw/main/network/img/cbl.png)
+- ![dd](./img/cbl.png)
 - csp1
-- ![d](https://github.com/Rokuki/ai-note/blob/main/network/img/csp1.png)
+- ![d](./img/csp1.png)
 - csp2
-- ![d](https://github.com/Rokuki/ai-note/blob/main/network/img/csp2.png)
+- ![d](./img/csp2.png)
 - focus
-- ![d](https://github.com/Rokuki/ai-note/blob/main/network/img/focus.png)
+- ![d](./img/focus.png)
 - spp
-- ![dd](https://github.com/Rokuki/ai-note/blob/main/network/img/spp.png)
+- ![dd](./img/spp.png)
 
-![yolov5](https://github.com/Rokuki/ai-note/blob/main/network/img/yolov5.png)
+![yolov5](./img/yolov5.png)
 
 ### CSP结构(跨阶段局部网络)
 - CSP1_X结构应用于Backbone主干网络

@@ -3,7 +3,7 @@
 
 ![dd](https://img-blog.csdnimg.cn/20191209213051844.png)
 
-![dd](https://github.com/Rokuki/ai-note/blob/main/network/img/h_swish_latency.jpg)
+![dd](./img/h_swish_latency.jpg)
 
 h-swish速度比ReLU慢，比swish快；精度较ReLU有显著提高
 
